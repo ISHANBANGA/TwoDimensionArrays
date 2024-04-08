@@ -1,1 +1,1 @@
-# Assignment2
+# A program which calculates the papers of the student reviewed by 4 different reviewers and if any reviewer gives an average lower than 5 then the paper is rejected otherwise accepted. Also if the overall average is above 5 or 7 then it is considered for the round 2.
